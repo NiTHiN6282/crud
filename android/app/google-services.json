@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813257211146",
+    "project_id": "stmarys-fff0e",
+    "storage_bucket": "stmarys-fff0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813257211146:android:adc8ad0a7d69f63b0b4ef3",
+        "android_client_info": {
+          "package_name": "com.test.stmarys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813257211146-bj8p70fdpr63475omv9vc45qqu40n96d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiuqTH--1lvn4xw8qJk1_UwlZ8FJJZEOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813257211146-bj8p70fdpr63475omv9vc45qqu40n96d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
